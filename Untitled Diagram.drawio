@@ -1,1 +1,85 @@
-<mxfile host="www.draw.io" modified="2019-12-09T08:14:13.877Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" version="12.3.8" etag="QIJbCG9YmkXY1LlGKWsQ" type="github"><diagram id="q9anOn_dLIexw7jnPXPX">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-12-09T09:18:52.011Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="9OYj_5F7HW6_PYHTq0Zt" version="12.3.8" type="github" pages="1">
+  <diagram id="q9anOn_dLIexw7jnPXPX" name="Page-1">
+    <mxGraphModel dx="873" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="nqisSoVSAT92SyZE2pZ_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nqisSoVSAT92SyZE2pZ_-1" target="nqisSoVSAT92SyZE2pZ_-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="nqisSoVSAT92SyZE2pZ_-1" value="需求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="250" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="nqisSoVSAT92SyZE2pZ_-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nqisSoVSAT92SyZE2pZ_-2" target="nqisSoVSAT92SyZE2pZ_-4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="nqisSoVSAT92SyZE2pZ_-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nqisSoVSAT92SyZE2pZ_-2" target="nqisSoVSAT92SyZE2pZ_-10">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="nqisSoVSAT92SyZE2pZ_-2" value="设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="400" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="nqisSoVSAT92SyZE2pZ_-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nqisSoVSAT92SyZE2pZ_-10" target="nqisSoVSAT92SyZE2pZ_-12">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="nqisSoVSAT92SyZE2pZ_-10" value="需求拆分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="400" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="nqisSoVSAT92SyZE2pZ_-12" value="实现调研" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="400" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="nqisSoVSAT92SyZE2pZ_-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nqisSoVSAT92SyZE2pZ_-4" target="nqisSoVSAT92SyZE2pZ_-6">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="nqisSoVSAT92SyZE2pZ_-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nqisSoVSAT92SyZE2pZ_-4" target="nqisSoVSAT92SyZE2pZ_-14">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="nqisSoVSAT92SyZE2pZ_-4" value="研发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="540" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="nqisSoVSAT92SyZE2pZ_-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nqisSoVSAT92SyZE2pZ_-14" target="nqisSoVSAT92SyZE2pZ_-18">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="nqisSoVSAT92SyZE2pZ_-14" value="单测编写" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="540" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="nqisSoVSAT92SyZE2pZ_-18" value="业务逻辑编写" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="540" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="nqisSoVSAT92SyZE2pZ_-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nqisSoVSAT92SyZE2pZ_-6" target="nqisSoVSAT92SyZE2pZ_-8">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="nqisSoVSAT92SyZE2pZ_-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nqisSoVSAT92SyZE2pZ_-6" target="nqisSoVSAT92SyZE2pZ_-16">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="nqisSoVSAT92SyZE2pZ_-6" value="测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="680" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="nqisSoVSAT92SyZE2pZ_-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nqisSoVSAT92SyZE2pZ_-16" target="nqisSoVSAT92SyZE2pZ_-20">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="nqisSoVSAT92SyZE2pZ_-16" value="单元测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="680" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="nqisSoVSAT92SyZE2pZ_-20" value="接入测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="680" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="nqisSoVSAT92SyZE2pZ_-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nqisSoVSAT92SyZE2pZ_-8" target="nqisSoVSAT92SyZE2pZ_-22">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="nqisSoVSAT92SyZE2pZ_-8" value="发布" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="820" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="nqisSoVSAT92SyZE2pZ_-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nqisSoVSAT92SyZE2pZ_-22" target="nqisSoVSAT92SyZE2pZ_-24">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="nqisSoVSAT92SyZE2pZ_-22" value="合并分支" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="820" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="nqisSoVSAT92SyZE2pZ_-24" value="发布主干" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="820" width="120" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
